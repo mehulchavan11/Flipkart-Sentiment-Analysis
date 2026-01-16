@@ -68,9 +68,9 @@ Unbiased sentiment summary,Competitor analysis
 👥 Team Members
 
 This project was developed collaboratively by:
-Ajinkya Bondge
-Atharva Patil
-Mehul Chavan
+Ajinkya Bondge,
+Atharva Patil,
+Mehul Chavan &
 Pratik Chinchawadkar
 
 📜 License
